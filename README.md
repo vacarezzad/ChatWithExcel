@@ -1,4 +1,3 @@
-Aquí tienes el README.md en inglés, con énfasis en la interacción mediante agentes de inteligencia artificial y modelos de lenguaje:
 
 ```markdown
 # ChatWithExcel
