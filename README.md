@@ -1,5 +1,4 @@
 
-```markdown
 # ChatWithExcel
 
 ChatWithExcel is an advanced AI-powered application designed to interact seamlessly with Excel and CSV files. Leveraging Langchain agents and Google Gemini LLMs, this tool provides a natural language interface for querying spreadsheet data.
@@ -45,7 +44,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please open an issue or submit a pull request to contribute to this project.
 
----
+
 
 For more details, visit the [ChatWithExcel GitHub Repository](https://github.com/vacarezzad/ChatWithExcel).
 ```
